@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">pereklucenieotstupov</string>
+    <string name="welcomeText">Welcome!</string>
+
+    <string name="btnOK">OK</string>
+    <string name="topicText">Moscow is capital of Russia.</string>
+    <string name="txtChooseLanguage">Choose the language</string>
+    <string name="txtChooseIndent">Choose indents</string>
+    <string-array name="language">
+        <item>Russian</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="indent">
+        <item>small</item>
+        <item>middle</item>
+        <item>big</item>
+    </string-array>
+</resources>
+

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">pereklucenieotstupov</string>
+    <string name="welcomeText">Добро пожаловать!</string>
+
+
+    <string name="btnOK">OK</string>
+    <string name="topicText">Москва - столица России.</string>
+    <string name="txtChooseLanguage">Выберите язык</string>
+    <string name="txtChooseIndent">Выберите отступы</string>
+
+    <string-array name="language">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+
+    <string-array name="indent">
+        <item>мелкие</item>
+        <item>средние</item>
+        <item>большие</item>
+    </string-array>
+</resources>
